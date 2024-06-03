@@ -21,7 +21,7 @@ repository               : "realjema.github.io/jema"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "@realjema"
   pronouns         : # example: "she/her"  
   bio              : "Keep It Short & Simple (KISS)"
